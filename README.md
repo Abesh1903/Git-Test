@@ -1,3 +1,3 @@
 This is my first Git Reopository
 <br>
-Author - Abesh Biswas
+Author - Abesh Biswas aka Alan Stark
