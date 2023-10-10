@@ -1,3 +1,0 @@
-Hi there 
-I am Abesh Biswas
-This is my first commit!
